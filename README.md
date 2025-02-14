@@ -1,4 +1,4 @@
-<img width="1445" alt="Staybnb 3" src="https://github.com/user-attachments/assets/b1389b44-ca2c-407d-8efd-7d7f049ff9c7" /># Staybnb
+
 Staybnb is a dynamic and visually appealing clone of the popular Airbnb platform. This web application is designed to provide users with a seamless and engaging experience for browsing, booking, and exploring accommodations.
 
 StayBnB is a simple hotel booking website designed using HTML and CSS. This project showcases a clean and visually appealing UI for a hotel or vacation rental service.
